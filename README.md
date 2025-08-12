@@ -23,14 +23,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsayazheni&" alt="harsayazheni" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsayazheni&show_icons=true&locale=en&layout=compact" alt="harsayazheni" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsayazheni" alt="harsayazheni" /></a></p>
+# 🌟 My GitHub Projects
+
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| **Creation of 3D model from Orthographic Projection** | A book recommendation app designed during the UI/UX Battle Royale finals. | [View on GitHub](https://github.com/Harsayazheni/Engineering-Design-and-Modelling-3.1) |
-| **Gamescape** | A gaming news and updates platform with event calendars and personalized feeds. | [View on GitHub](https://github.com/USERNAME/REPO_NAME) |
-| **CGPA Calculator** | Web app to calculate CGPA using HTML, CSS, and JavaScript. | [View on GitHub](https://github.com/USERNAME/REPO_NAME) |
-| **BuyWise** | AI-powered chatbot for product inquiries, pricing, and recommendations. | [View on GitHub](https://github.com/USERNAME/REPO_NAME) |
-| **Crickster** | Cricket-themed interactive website for tournaments and registrations. | [View on GitHub](https://github.com/USERNAME/REPO_NAME) |
-| **Diabetes Prediction** | Machine learning model to predict diabetes using SVM. | [View on GitHub](https://github.com/USERNAME/REPO_NAME) |
-| **Climate Change Predictor** | Predicts climate change impact using ML with interactive inputs. | [View on GitHub](https://github.com/USERNAME/REPO_NAME) |
+| **Creation of 3D Model from Orthographic Projection** | Converts orthographic projection into a detailed 3D model. | [🔗 View on GitHub](https://github.com/Harsayazheni/Engineering-Design-and-Modelling-3.1) |
+
+---
+✨ _More projects will be added soon!_
+
 
 
