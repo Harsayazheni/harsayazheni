@@ -24,9 +24,10 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsayazheni&show_icons=true&locale=en&layout=compact" alt="harsayazheni" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsayazheni" alt="harsayazheni" /></a></p>
 
-| Course Name | Description | Link |
-|--------------|-------------|------|
-| **Google Sheets** | 18.12.25 | [🔗 View on GitHub]([https://github.com/Harsayazheni/Engineering-Design-and-Modelling-3.1](https://github.com/Harsayazheni/Course-Google-Sheets.git)) |
+| Course Name | Duration | Link |
+|------------|-------------|------|
+| **Google Sheets** | 18.12.25 | [🔗 View on GitHub](https://github.com/Harsayazheni/Course-Google-Sheets) |
+
 
 ---
 ✨ _More projects will be added soon!_
