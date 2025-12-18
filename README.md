@@ -25,9 +25,10 @@
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsayazheni" alt="harsayazheni" /></a></p>
 
 | Course Name | Duration | Link |
-|------------|-------------|------|
+|------------|----------|------|
 | **Google Sheets** | 18.12.25 | [🔗 View on GitHub](https://github.com/Harsayazheni/Course-Google-Sheets) |
-| **Google UX Design Professional Certification** | 10.06.24 - 13.08.24 | [🔗 View on GitHub]([https://github.com/Harsayazheni/Course-Google-Sheets](https://github.com/Harsayazheni/Course-Google-UX-Design-Professional-Certificate.git)) |
+| **Google UX Design Professional Certification** | 10.06.24 – 13.08.24 | [🔗 View on GitHub](https://github.com/Harsayazheni/Course-Google-UX-Design-Professional-Certificate) |
+
 
 
 
